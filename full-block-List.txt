@@ -1,19 +1,25 @@
+! SONY - PLAYSTATION 4 & 5 (26.4.19)
 ! ===============================================================
-! SONY - PLAYSTATION 4 & 5
-! ===============================================================
-! Exceptions (Allow login/PSN)
+! --- Exceptions (Allow Login/PSN) ---
 @@||feature.api.playstation.com^
 @@||stun.playstation.net^
 @@||ena.net.playstation.net^
 @@||post.net.playstation.net^
+@@||gst.prod.dl.playstation.net^
 
-! Blocks (Updates & Telemetry)
+! --- Updates & Anti-Exploit Security ---
 ||update.playstation.net^
 ||*.cdn.update.playstation.org.edgesuite.net^
 ||*.ps4.update.playstation.net^
 ||*.ps5.update.playstation.net^
-||telemetry.api.playstation.com^
 ||ps4-system.sec.np.dl.playstation.net^
+||scee-sc01.ps4.update.playstation.net^
+
+! --- Telemetry & Community Tracking ---
+||telemetry.api.playstation.com^
+||event.api.np.km.playstation.net^
+||sf.api.np.km.playstation.net^
+||urlconfig.api.playstation.com^
 ||psndl.net^
 
 ! ===============================================================
@@ -33,18 +39,25 @@
 ||sun.hac.lp1.d4c.nintendo.net^
 
 ! ===============================================================
-! MICROSOFT - XBOX
+! MICROSOFT - XBOX & PUBLISHERS
 ! ===============================================================
+! --- System Updates ---
 ||xboxlive.com.update.edgesuite.net^
 ||assets1.xboxlive.com^
+||*.update.microsoft.com.akadns.net^
+
+! --- 2026 AI Telemetry & Moderation ---
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||xbox.telemetry.microsoft.com^
+||*.mp.microsoft.com^
 
 ! ===============================================================
 ! SEGA & EA (TELEMETRY)
 ! ===============================================================
-||telemetry.sega.com^
-||etp.ea.com^
-||river.data.ea.com^
 ||telemetry.ea.com^
+||river.data.ea.com^
+||etp.ea.com^
+||rtm.ea.com^
+||telemetry.sega.com^
+
