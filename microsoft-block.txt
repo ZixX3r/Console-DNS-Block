@@ -1,7 +1,20 @@
-! MICROSOFT - XBOX
 ! ===============================================================
+! MICROSOFT - XBOX & PUBLISHERS
+! ===============================================================
+! --- System Updates ---
 ||xboxlive.com.update.edgesuite.net^
 ||assets1.xboxlive.com^
+||*.update.microsoft.com.akadns.net^
+
+! --- 2026 AI Telemetry & Moderation ---
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||xbox.telemetry.microsoft.com^
+||*.mp.microsoft.com^
+
+! --- EA & Sega (2026 Telemetry) ---
+||telemetry.ea.com^
+||river.data.ea.com^
+||etp.ea.com^
+||rtm.ea.com^
+||telemetry.sega.com^
