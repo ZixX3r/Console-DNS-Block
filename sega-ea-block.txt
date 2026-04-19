@@ -1,6 +1,7 @@
 ! SEGA & EA (TELEMETRY)
 ! ===============================================================
 ||telemetry.sega.com^
-||etp.ea.com^
-||river.data.ea.com^
 ||telemetry.ea.com^
+||river.data.ea.com^
+||etp.ea.com^
+||rtm.ea.com^
