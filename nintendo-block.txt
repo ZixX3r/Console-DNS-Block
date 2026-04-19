@@ -1,14 +1,23 @@
-! NINTENDO - SWITCH & LEGACY
 ! ===============================================================
-! Exceptions (Allow eShop/Login)
+! NINTENDO - SWITCH 1 & SWITCH 2 (MUJI/OMU)
+! ===============================================================
+! --- Exceptions (Keep Online Play & eShop Working) ---
 @@||ctest.cdn.nintendo.net^
 @@||conntest.nintendowifi.net^
 
-! Blocks (System Updates & Tracking)
+! --- Mandatory Updates & OS Tracking ---
 ||atumn.atls.nintendo.com^
-||receive-*.dg.nintendo.com^
-||receive-*.er.nintendo.com^
-||nintendo.net^
-||*.update.nintendo.net^
-||tagaya.hac.lp1.d4c.nintendo.net^
+||atumn.hac.lp1.d4c.nintendo.net^
 ||sun.hac.lp1.d4c.nintendo.net^
+||tagaya.hac.lp1.d4c.nintendo.net^
+||*.update.nintendo.net^
+
+! --- 2026 Switch 2 "Muji" & "Omu" Specific ---
+||*.muji.nintendo.net^
+||*.omu.nintendo.net^
+||receive-*.dg.srv.nintendo.net^
+||receive-*.er.srv.nintendo.net^
+
+! --- General Tracking ---
+||nintendo.net^
+||*.nintendo.io^
