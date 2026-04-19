@@ -1,0 +1,14 @@
+! NINTENDO - SWITCH & LEGACY
+! ===============================================================
+! Exceptions (Allow eShop/Login)
+@@||ctest.cdn.nintendo.net^
+@@||conntest.nintendowifi.net^
+
+! Blocks (System Updates & Tracking)
+||atumn.atls.nintendo.com^
+||receive-*.dg.nintendo.com^
+||receive-*.er.nintendo.com^
+||nintendo.net^
+||*.update.nintendo.net^
+||tagaya.hac.lp1.d4c.nintendo.net^
+||sun.hac.lp1.d4c.nintendo.net^
