@@ -35,7 +35,7 @@ The project is divided into specialized files so you can choose exactly what to 
 1.  Go to **Filters** -> **DNS Blocklists**.
 2.  Click **Add blocklist** -> **Add a custom list**.
 3.  Name it `ZixX3r-DNS-consoles-blocker`.
-4.  Paste the **Raw** URL from this GitHub (e.g., `https://github.com/ZixX3r/Console-DNS-Block/blob/7a82f0317af6b831f4323088868a43bb108b9415/full-block-List.txt`).
+4.  Paste the **Raw** URL from this GitHub (e.g., `https://raw.githubusercontent.com/ZixX3r/Console-DNS-Block/refs/heads/main/full-block-List.txt`).
 5.  Set the update interval to **24 hours**.
 
 ### **For Pi-hole**
