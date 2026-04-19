@@ -55,6 +55,11 @@ This project is a compilation of community knowledge. Special thanks to:
 
 ---
 
+## ⚠️ Technical Warning:
+The Switch 2 and late-model PS5s are increasingly using DoH (DNS over HTTPS). Even with these blocks, if the console has "hardcoded" DNS settings (like 8.8.8.8), it might bypass AdGuard entirely. On your DNS-blocker, look into creating a NAT Redirect rule that forces all traffic on port 53 to go to your AdGuard/pihole IP, regardless of what the console tries to do.
+
+---
+
 ## ⚠️ Disclaimer
 * I'm just an entusiast, if there any errors or things not working, just let me know, and I'll try fixing it right away.
 * This list is provided for educational and privacy purposes. Blocking updates can sometimes cause errors in some games. Use at your own risk.*
