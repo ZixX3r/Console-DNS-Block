@@ -1,6 +1,6 @@
 # Console-DNS-Block
 
-# 🎮 Console DNS Blocklist (2026 Edition)
+# 🎮 Console DNS Blocklist (ver. 26.04-18)
 
 A curated, DNS blocklist designed for self-hosted DNS (AdGuard Home, Pi-hole). This list targets mandatory updates, aggressive telemetry, and tracking across all major gaming platforms while keeping login services functional.
 
