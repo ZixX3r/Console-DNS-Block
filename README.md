@@ -57,4 +57,5 @@ This project is a compilation of community knowledge. Special thanks to:
 
 ## ⚠️ Disclaimer
 * I'm just an entusiast, if there any errors or things not working, just let me know, and I'll try fixing it right away.
-*This list is provided for educational and privacy purposes. Blocking updates can sometimes cause errors in digital-only games. Use at your own risk.*
+* This list is provided for educational and privacy purposes. Blocking updates can sometimes cause errors in some games. Use at your own risk.*
+* Keep the scene Alive! 
