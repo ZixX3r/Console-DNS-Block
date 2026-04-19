@@ -1,0 +1,50 @@
+! ===============================================================
+! SONY - PLAYSTATION 4 & 5
+! ===============================================================
+! Exceptions (Allow login/PSN)
+@@||feature.api.playstation.com^
+@@||stun.playstation.net^
+@@||ena.net.playstation.net^
+@@||post.net.playstation.net^
+
+! Blocks (Updates & Telemetry)
+||update.playstation.net^
+||*.cdn.update.playstation.org.edgesuite.net^
+||*.ps4.update.playstation.net^
+||*.ps5.update.playstation.net^
+||telemetry.api.playstation.com^
+||ps4-system.sec.np.dl.playstation.net^
+||psndl.net^
+
+! ===============================================================
+! NINTENDO - SWITCH & LEGACY
+! ===============================================================
+! Exceptions (Allow eShop/Login)
+@@||ctest.cdn.nintendo.net^
+@@||conntest.nintendowifi.net^
+
+! Blocks (System Updates & Tracking)
+||atumn.atls.nintendo.com^
+||receive-*.dg.nintendo.com^
+||receive-*.er.nintendo.com^
+||nintendo.net^
+||*.update.nintendo.net^
+||tagaya.hac.lp1.d4c.nintendo.net^
+||sun.hac.lp1.d4c.nintendo.net^
+
+! ===============================================================
+! MICROSOFT - XBOX
+! ===============================================================
+||xboxlive.com.update.edgesuite.net^
+||assets1.xboxlive.com^
+||v10.events.data.microsoft.com^
+||v20.events.data.microsoft.com^
+||xbox.telemetry.microsoft.com^
+
+! ===============================================================
+! SEGA & EA (TELEMETRY)
+! ===============================================================
+||telemetry.sega.com^
+||etp.ea.com^
+||river.data.ea.com^
+||telemetry.ea.com^
