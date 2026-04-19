@@ -24,7 +24,7 @@ The project is divided into specialized files so you can choose exactly what to 
 * `full-block-List.txt`: Everything combined.
 * `sony-block.txt`: PS4 & PS5 specific.
 * `nintendo-block.txt`: Switch & Legacy support.
-* `microsoft.txt`: Xbox and PC publisher telemetry.
+* `microsoft.txt`: Xbox and PC publisher telemetry. Careful as it might block windows services or not let games play at all. more test needed.
 * `sega-ea-block.txt`: Sega & EA publisher telemetry
 
 ---
