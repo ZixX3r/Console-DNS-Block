@@ -1,0 +1,7 @@
+! MICROSOFT - XBOX
+! ===============================================================
+||xboxlive.com.update.edgesuite.net^
+||assets1.xboxlive.com^
+||v10.events.data.microsoft.com^
+||v20.events.data.microsoft.com^
+||xbox.telemetry.microsoft.com^
