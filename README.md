@@ -34,8 +34,8 @@ The project is divided into specialized files so you can choose exactly what to 
 ### **For AdGuard Home (Recommended)**
 1.  Go to **Filters** -> **DNS Blocklists**.
 2.  Click **Add blocklist** -> **Add a custom list**.
-3.  Name it `Neomedi Console Master`.
-4.  Paste the **Raw** URL from this GitHub (e.g., `https://raw.githubusercontent.com/YOUR_USER/repo/main/master-block.txt`).
+3.  Name it `ZixX3r-DNS-consoles-blocker`.
+4.  Paste the **Raw** URL from this GitHub (e.g., `https://github.com/ZixX3r/Console-DNS-Block/blob/7a82f0317af6b831f4323088868a43bb108b9415/full-block-List.txt`).
 5.  Set the update interval to **24 hours**.
 
 ### **For Pi-hole**
@@ -51,9 +51,10 @@ This project is a compilation of community knowledge. Special thanks to:
 * **The PS4/PS5 Scene:** For identifying regional update nodes.
 * **MagicStuffCL & amende155:** For the initial domain research.
 * **Drakmor (nanoDNS):** For the exception logic inspiration.
-* **Gemini (AI Assistant):** For help in merging, deduplicating, and architecting this repository and README.
+* **Gemini (AI Assistant):** For help in the process.
 
 ---
 
 ## ⚠️ Disclaimer
+* I'm just an entusiast, if there any errors or things not working, just let me know, and I'll try fixing it right away.
 *This list is provided for educational and privacy purposes. Blocking updates can sometimes cause errors in digital-only games. Use at your own risk.*
