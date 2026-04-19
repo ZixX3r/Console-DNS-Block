@@ -1,0 +1,16 @@
+! SONY - PLAYSTATION 4 & 5
+! ===============================================================
+! Exceptions (Allow login/PSN)
+@@||feature.api.playstation.com^
+@@||stun.playstation.net^
+@@||ena.net.playstation.net^
+@@||post.net.playstation.net^
+
+! Blocks (Updates & Telemetry)
+||update.playstation.net^
+||*.cdn.update.playstation.org.edgesuite.net^
+||*.ps4.update.playstation.net^
+||*.ps5.update.playstation.net^
+||telemetry.api.playstation.com^
+||ps4-system.sec.np.dl.playstation.net^
+||psndl.net^
