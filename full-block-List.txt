@@ -8,12 +8,14 @@
 @@||gst.prod.dl.playstation.net^
 
 ! --- Updates & Anti-Exploit Security ---
+||system-feature.np.dl.playstation.net^
 ||update.playstation.net^
 ||*.cdn.update.playstation.org.edgesuite.net^
 ||*.ps4.update.playstation.net^
 ||*.ps5.update.playstation.net^
 ||ps4-system.sec.np.dl.playstation.net^
 ||scee-sc01.ps4.update.playstation.net^
+||fus01.ps5.update.playstation.net^
 
 ! --- Telemetry & Community Tracking ---
 ||telemetry.api.playstation.com^
@@ -35,6 +37,7 @@
 ||receive-*.er.nintendo.com^
 ||nintendo.net^
 ||*.update.nintendo.net^
+||*.update.nintendo.com^
 ||tagaya.hac.lp1.d4c.nintendo.net^
 ||sun.hac.lp1.d4c.nintendo.net^
 
